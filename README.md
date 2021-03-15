@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @meysophanith
+- 👋 Hi, I’m @msphanith
 - 👀 I’m interested in coding, challenging new things, and playing game.
 - 🌱 I’m currently learning third year, majoring in information technology.
 - 📫 How to reach me: email:meysophanith@yahoo.com
