@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @msphanith
 - 👀 I’m interested in coding, challenging new things, and playing game.
 - 🌱 I'm freshly graduated from Rangsit University majoring in information technology.
-- 🌱 Currently, I intern as Front-End Developer @pimclick. My task is to develop web application and design website. The technology I uses there are HTML, CSS, javascript, ReactJs, AngularJs, etc.
+- 🌱 I'm immediately available. My task is to develop web application and design website. The technologies I uses there are HTML, CSS, javascript, ReactJs, AngularJs, etc.
 - 📫 How to reach me: email:meysophanith@yahoo.com
 
 <!---
